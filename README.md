@@ -33,7 +33,7 @@ mkvirtualenv <environment-name>
 pip install selenium
 ```
 10. Im using VSCode as my IDE, so search for python on the market place and installed it.
-11. Let's Code
+11. Run the code.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
